@@ -1,0 +1,19 @@
+baseURL = "https://sn.shoogle.net/senegal-and-gambia"
+languageCode = "fr"
+title = "Senegal"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "senegal-and-gambia"
+
+[taxonomies]
+  shop = "shops"
