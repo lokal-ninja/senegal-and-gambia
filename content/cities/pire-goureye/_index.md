@@ -1,6 +1,6 @@
 ---
 title: Pire Gouréye
 url: /pire-goureye/
-latitude: 
-longitude: 
+latitude: 15.018
+longitude: -16.735
 ---

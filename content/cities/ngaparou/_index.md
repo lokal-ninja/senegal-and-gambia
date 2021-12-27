@@ -1,6 +1,6 @@
 ---
 title: ngaparou
 url: /ngaparou/
-latitude: 
-longitude: 
+latitude: 14.468
+longitude: -17.055
 ---

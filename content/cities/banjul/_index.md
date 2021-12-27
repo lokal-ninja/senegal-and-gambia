@@ -1,6 +1,6 @@
 ---
 title: Banjul
 url: /banjul/
-latitude: 13.455350000000001
-longitude: -16.575646000000003
+latitude: 13.431
+longitude: -16.689
 ---

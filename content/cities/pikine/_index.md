@@ -1,6 +1,6 @@
 ---
 title: pikine
 url: /pikine/
-latitude: 
-longitude: 
+latitude: 14.765
+longitude: -17.392
 ---

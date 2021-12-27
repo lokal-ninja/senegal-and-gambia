@@ -1,6 +1,6 @@
 ---
 title: Mboro
 url: /mboro/
-latitude: 15.135984700000002
-longitude: -16.8812178
+latitude: 15.142
+longitude: -16.886
 ---

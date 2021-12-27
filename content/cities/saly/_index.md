@@ -1,6 +1,6 @@
 ---
 title: saly
 url: /saly/
-latitude: 
-longitude: 
+latitude: 14.445
+longitude: -17.018
 ---

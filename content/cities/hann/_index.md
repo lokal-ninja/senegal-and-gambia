@@ -1,6 +1,6 @@
 ---
 title: Hann
 url: /hann/
-latitude: 
-longitude: 
+latitude: 14.726
+longitude: -17.438
 ---

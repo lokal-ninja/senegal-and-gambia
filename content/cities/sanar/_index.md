@@ -1,6 +1,6 @@
 ---
 title: sanar
 url: /sanar/
-latitude: 
-longitude: 
+latitude: 16.067
+longitude: -16.423
 ---

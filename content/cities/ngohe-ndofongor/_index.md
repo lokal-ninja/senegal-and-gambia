@@ -1,6 +1,6 @@
 ---
 title: Ngohé Ndofongor
 url: /ngohe-ndofongor/
-latitude: 14.3549734
-longitude: -16.628773300000002
+latitude: 14.355
+longitude: -16.63
 ---
