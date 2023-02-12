@@ -1,5 +1,5 @@
 ---
 title: "Tunisia House"
-url: /saly-portudal/tunisia-house-2/
+url: /saly-portudal/tunisia-house/
 shop: décoration intérieure
 ---
