@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie"
 url: /dahra/fromagerie/
-shop: fromage
+shop: Käse
 ---

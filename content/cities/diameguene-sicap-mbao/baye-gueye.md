@@ -1,5 +1,5 @@
 ---
 title: "Baye GUEYE"
 url: /diameguene-sicap-mbao/baye-gueye/
-shop: commodité
+shop: Lebensmittel
 ---

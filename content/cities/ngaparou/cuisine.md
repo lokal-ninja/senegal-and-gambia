@@ -1,5 +1,5 @@
 ---
 title: "CUISINE +"
 url: /ngaparou/cuisine/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Grand Café"
 url: /dakar/le-grand-cafe/
-shop: boulangerie
+shop: Bäckerei
 ---
