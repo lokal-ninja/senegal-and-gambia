@@ -1,5 +1,5 @@
 ---
 title: "Twin Hair"
 url: /commune-de-dakar-plateau/twin-hair/
-shop: Kosmetik
+shop: beauté
 ---

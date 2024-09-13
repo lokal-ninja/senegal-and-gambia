@@ -1,5 +1,5 @@
 ---
 title: "magasin alimentaire"
 url: /ngaparou/magasin-alimentaire/
-shop: Dorfladen
+shop: magasin de campagne
 ---

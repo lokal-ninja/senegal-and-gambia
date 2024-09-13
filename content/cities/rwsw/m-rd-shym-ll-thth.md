@@ -1,5 +1,5 @@
 ---
 title: "معرض شيماء للأثاث"
 url: /rwsw/m-rd-shym-ll-thth/
-shop: Warenhaus
+shop: grand magasin
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Achat Malin"
 url: /ngaparou/achat-malin/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TECH'OPS"
 url: /dakar/techops/
-shop: Allgemein
+shop: shop
 ---

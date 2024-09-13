@@ -1,5 +1,5 @@
 ---
 title: "fripperie"
 url: /commune-de-rufisque-ouest/fripperie/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boutique Orange"
 url: /pikine/boutique-orange/
-shop: Handy
+shop: téléphone portable
 ---

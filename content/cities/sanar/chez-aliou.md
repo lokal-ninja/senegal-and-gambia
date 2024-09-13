@@ -1,5 +1,5 @@
 ---
 title: "Chez Aliou"
 url: /sanar/chez-aliou/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

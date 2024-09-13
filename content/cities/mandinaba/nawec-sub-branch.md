@@ -1,5 +1,5 @@
 ---
 title: "NAWEC SUB-BRANCH"
 url: /mandinaba/nawec-sub-branch/
-shop: Allgemein
+shop: shop
 ---

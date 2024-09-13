@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /dakar/total/
-shop: Allgemein
+shop: shop
 ---

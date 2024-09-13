@@ -1,5 +1,5 @@
 ---
 title: "MATELEC SARL"
 url: /dakar/matelec-sarl/
-shop: Eisenwaren
+shop: matériel informatique
 ---

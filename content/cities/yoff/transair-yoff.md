@@ -1,5 +1,5 @@
 ---
 title: "TRANSAIR YOFF"
 url: /yoff/transair-yoff/
-shop: Tickets
+shop: billet
 ---

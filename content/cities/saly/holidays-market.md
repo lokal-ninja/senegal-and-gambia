@@ -1,5 +1,5 @@
 ---
 title: "Holidays Market"
 url: /saly/holidays-market/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pierdeco"
 url: /ouakam/pierdeco/
-shop: Baumarkt
+shop: à faire soi-même
 ---

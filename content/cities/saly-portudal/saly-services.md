@@ -1,5 +1,5 @@
 ---
 title: "Saly Services"
 url: /saly-portudal/saly-services/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---
