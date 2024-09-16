@@ -1,11 +1,11 @@
 id: 294356318
-type: way
+type: node
 latitude: 14.71861
 longitude: -17.28812
 postcode: ""
 city: Commune de Rufisque Ouest
 street: ""
-housenumber: 012
+housenumber: "012"
 phone: ""
 opening_hours: ""
 website: ""
