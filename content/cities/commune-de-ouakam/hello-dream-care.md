@@ -1,5 +1,5 @@
 ---
 title: "Hello Dream Care"
-url: /dakar/hello-dream-care/
+url: /commune-de-ouakam/hello-dream-care/
 shop: beauté
 ---
