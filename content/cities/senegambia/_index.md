@@ -1,6 +1,6 @@
 ---
 title: Senegambia
 url: /senegambia/
-latitude: 13.445
-longitude: -16.718
+latitude: 13.447
+longitude: -16.719
 ---
